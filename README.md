@@ -23,3 +23,6 @@ Demo of microservices ecosystem, making use of Netflix OSS and some microservice
 #### Requests
 * Some sample requests for each service is available in Postman Collection file.
 
+#### Author
+* Akshay Dhangar
+
